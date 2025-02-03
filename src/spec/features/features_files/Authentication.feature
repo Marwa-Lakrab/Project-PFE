@@ -7,4 +7,4 @@ Feature: Je verifier la page d authentification
     When Je saisis le username "test"
     And Je saisis le password "test"
     And Je clique sur le bouton submit
-    Then Je me redirige vers la page home "Login Successfully3"
+    Then Je me redirige vers la page home "Login Successfully33"
